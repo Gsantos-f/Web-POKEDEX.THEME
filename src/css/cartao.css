@@ -1,0 +1,97 @@
+.cartao-pokemon{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    display: none;
+    border-radius: 0 30px 30px;
+}
+
+.cartao-pokemon .cartao-topo{
+    color: rgb(53, 53, 53);
+    padding: 20px 40px 0;
+    background: url(/src/imagens/pokebola.png) top center/ 80% no-repeat;
+    background-position-y: 16px;
+}
+
+.cartao-pokemon .cartao-informacoes{
+    color: rgb(53, 53, 53);
+    justify-content: space-around;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 80px 30px 50px;
+    margin-top: -70px;
+    border-radius: 0 0 0 30px;
+    border-top: 10px solid rgba(194, 194, 194, 0.541);
+}
+
+.cartao-pokemon .cartao_imagem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cartao-pokemon .nome{
+    margin-bottom: 5px;
+    font-size: 40px;
+    
+}
+.cartao-pokemon .tipo{
+    font-size: 28px;
+    border-radius: 10px;
+    padding: 4px 10px;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(12, 6, 6, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+}
+.cartao-pokemon .detalhes{
+    align-items: center;
+    display: flex ;
+    font-weight: bolder;
+    font-size: 50px;
+    justify-content: space-between;
+}
+.cartao-pokemon .cartao_imagem{
+    width: 350px;
+    height: 340px;
+}
+.cartao-pokemon img{
+    max-height: 100%;
+}
+
+.cartao-pokemon .cartao-informacoes h3{
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 1px solid rgb(175, 175, 175);
+}
+.cartao-pokemon .cartao-informacoes .status, .cartao-pokemon .cartao-informacoes .habilidades{
+    padding:  0 10px;
+    width: 180px;
+    font-size: 14px;
+}
+.cartao-pokemon .cartao-informacoes .status ul li, .cartao-pokemon .cartao-informacoes .habilidades ul li{
+    margin-bottom: 5px;
+    padding-bottom: 2px;
+    border-bottom: 1px dashed rgb(175, 175, 175);
+    font-family: 'megasans';
+}
+.cartao-pokemon.aberto{
+    display: block;
+}
+.tipo-fogo{
+    background: -webkit-linear-gradient( bottom , rgb(253, 83, 53) 30%,rgb(153, 36, 15) 100%);
+}
+.tipo-eletrico{
+    background: -webkit-linear-gradient( bottom  ,rgb(255, 244, 86) 30%, rgb(122, 115, 14) 100%);
+}
+.tipo-planta{
+    background: -webkit-linear-gradient( bottom  ,rgb(86, 255, 128) 30% , rgb(20, 126, 47) 100%);
+}
+.tipo-agua{
+    background: -webkit-linear-gradient( bottom ,rgb(86, 179, 255) 30% , rgb(15, 85, 143) 100%);
+}
+.tipo-gelo{
+    background: -webkit-linear-gradient( bottom , rgb(86, 255, 255) 30%, rgb(27, 155, 155) 100%);
+}
+.tipo-fantasma{
+    background: -webkit-linear-gradient( bottom , rgb(192, 116, 228) 30% ,rgb(122, 16, 172) 100%);
+}
+.tipo-x{
+    background: -webkit-linear-gradient( bottom , rgb(128, 142, 218) 30% ,rgb(0, 31, 204) 100%);
+}
