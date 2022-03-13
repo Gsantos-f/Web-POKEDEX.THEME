@@ -1,14 +1,24 @@
 @font-face {
     font-family: 'dukeplus';
     src: url(/src/font/dukeplus.ttf);
+}
+@font-face{
     font-family: 'sinami';
     src: url(/src/font/Sinami\ demo.ttf);
+}
+@font-face{
     font-family: 'ancient';
     src: url(/src/font/Ancient\ Medium.ttf);
+}
+@font-face{
     font-family: 'retro';
     src: url(/src/font/Retro\ Gaming.ttf);
+}
+@font-face{
     font-family: 'daydream';
     src: url(/src/font/Daydream.ttf);
+}
+@font-face{
     font-family: 'megasans';
     src: url(/src/font/maga-sans.ttf);
 }

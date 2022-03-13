@@ -7,7 +7,7 @@
 .cartao-pokemon .cartao-topo{
     color: rgb(53, 53, 53);
     padding: 20px 40px 0;
-    background: url(src/imagens/pokebola.png) top center/ 80% no-repeat;
+    background: url(/src/imagens/pokebola.png) top center/ 80% no-repeat;
     background-position-y: 16px;
 }
 
