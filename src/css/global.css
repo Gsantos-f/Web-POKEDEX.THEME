@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'dukeplus';
-    src: url(src/font/dukeplus.ttf);
+    src: url(/src/font/dukeplus.ttf);
     font-family: 'sinami';
-    src: url(src/font/Sinami\ demo.ttf);
+    src: url(/src/font/Sinami\ demo.ttf);
     font-family: 'ancient';
-    src: url(src/font/Ancient\ Medium.ttf);
+    src: url(/src/font/Ancient\ Medium.ttf);
     font-family: 'retro';
-    src: url(src/font/Retro\ Gaming.ttf);
+    src: url(/src/font/Retro\ Gaming.ttf);
     font-family: 'daydream';
-    src: url(src/font/Daydream.ttf);
+    src: url(/src/font/Daydream.ttf);
     font-family: 'megasans';
-    src: url(src/font/maga-sans.ttf);
+    src: url(/src/font/maga-sans.ttf);
 }
 @font-face{
     font-family: 'secret';
-    src: url(src/font/Secret\ Admirer.ttf);
+    src: url(/src/font/Secret\ Admirer.ttf);
 }
 body{
     background-color: rgb(228, 56, 56);
