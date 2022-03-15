@@ -1,23 +1,4 @@
-@font-face {
-    font-family: 'dukeplus';
-    src: url(/src/font/dukeplus.ttf) format('truetype');
-}
-@font-face{
-    font-family: 'sinami';
-    src: url(/src/font/Sinami\ demo.ttf) format('truetype');
-}
-@font-face{
-    font-family: 'ancient';
-    src: url(/font/Ancient\ Medium.ttf) format('truetype');
-}
-@font-face{
-    font-family: 'retro';
-    src: url(/font/Retro\ Gaming.ttf) format('truetype');
-}
-@font-face{
-    font-family: 'daydream';
-    src: url(/font/Daydream.ttf) format('truetype');
-}
+
 @font-face{
     font-family: 'megasans';
     src: url(/font/maga-sans.ttf) format('truetype');
@@ -30,10 +11,10 @@ body{
     background-color: rgb(228, 56, 56);
 }
 h2, h3, span {
-    font-family: 'Pincllo';
+    font-family: 'secret';
 }
 li{
-    font-family: 'Eichante';                                            
+    font-family: 'megasans';                                            
 }
 main{
     min-height: 100vh;
