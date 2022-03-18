@@ -2,7 +2,7 @@
  <p> ▣ PT-BR: Neste projeto desenvolvi um website para ganhar experiencia no meu desenvolvimento na area de Front-end, na pagina não tem nenhum conteudo especial em especifico, são mais textos e palavras randomicas que optei para ter uma guia e n ficar tão perdido no projeto, nele meu foco foi o Html, Css e js, fazendo a estrutura e estilização do site. Nesse tema foi feito um site imitando uma pokedex, usando fuções do js para fazer as animações mostradas nas imagens abaixo.  </p>
  <p> ▣ EN-US: In this project I developed a website to gain experience in my development in the Front-end area, on the page there is no special content in specific, there are more texts and random words that I chose to have a guide and dont stay lost in the project, in it my focus was the Html, Css and Js, making the structure and stylization of the site. In this theme, a website was made imitating a pokedex, using js functions to make the animations shown in the images below. </p>
  
- PAGE: https://modest-kowalevski-86def8.netlify.app
+ PAGE: https://gsantos-f-pokedextheme.netlify.app
  
  ## ◉ 💻Technologies
  ▣ HTML</br>
