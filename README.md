@@ -21,8 +21,8 @@
 
  ##
  
-<div align="center">💿 Complete project 📀<div>
- <div align="center">💿 Projeto completo 📀<div>
+<div align="center">💿 The project is in the process of being updated 📀<div>
+ <div align="center">💿 O projeto ainda esta em desenvolvimento e pode ter mudanças 📀<div>
  
  ##
   
